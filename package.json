@@ -1,0 +1,14 @@
+{
+  "name": "vue-project-ts",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "ol": "9.2.0",
+    "proj4": "^2.11.0"
+  },
+  "devDependencies": {}
+}
